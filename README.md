@@ -9,7 +9,7 @@ example the input looks like this:<br>
 5 1551 
 3 49758
 10 12974
-</br>
+
 The output should list the count, average (as integer), minimum, and maximum per
 product. For example, the output should look like this:
 Product 1: Average = 22342
@@ -19,6 +19,7 @@ Product 1: Max = 382389
 Product 2: Average = 4344
 Product 2: Count = 3691
 ...
+
 The output should be stored in output file(s). Your program should work for any dataset
 containing integer numbers.
 
@@ -31,3 +32,4 @@ To run this program-:
 3)Now run the program to create the executable jar file
 4)Run the jar file using the command -:
     hadoop jar "path to jar file" "path to output file" "name of the output directory"
+</br>
