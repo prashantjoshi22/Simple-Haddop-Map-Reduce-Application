@@ -29,6 +29,8 @@ To run this program-:
 1) Put the file in hdfs using the command 
     hadoop fs -put "path of the file in local file system" "path in hdfs where you want to put this file"
 <br>
+2)create a maven project and built the POM file with required dependencies.
+</br><br>
 2)Now write the Mapper,Driver,Reducer Code in any IDE.</br>
 </br>
 3)Now run the program to create the executable jar file</br>
