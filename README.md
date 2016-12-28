@@ -3,13 +3,13 @@ MapReduce-based java code to calculate the count,
 average, minimum and maximum of each product from a series of numbers given as
 input in a file. The file contains several entries with the following format: value1 \t
 value2 whereby value1 represents the product id, and value2 represents the price. For_
-example the input looks like this:_
-6 553066_
-9 790076_
-5 1551_
-3 497585_
-10 12974_
-
+example the input looks like this:<br>
+6 553066                                                                                  
+9 790076                                                                        
+5 1551 
+3 49758
+10 12974
+</br>
 The output should list the count, average (as integer), minimum, and maximum per
 product. For example, the output should look like this:
 Product 1: Average = 22342
