@@ -13,12 +13,12 @@ example the input looks like this:<br>
 The output should list the count, average (as integer), minimum, and maximum per
 product. For example, the output should look like this:
 <br>
-Product 1: Average = 22342
-Product 1: Count = 2342
-Product 1: Min = 1346
-Product 1: Max = 382389
-Product 2: Average = 4344
-Product 2: Count = 3691
+Product 1: Average = 22342</br><br>
+Product 1: Count = 2342</br><br>
+Product 1: Min = 1346</br><br>
+Product 1: Max = 382389</br><br>
+Product 2: Average = 4344</br><br>
+Product 2: Count = 3691</br><br>
 ...
 </br>
 The output should be stored in output file(s). Your program should work for any dataset
